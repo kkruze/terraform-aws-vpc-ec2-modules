@@ -32,7 +32,7 @@ EC2 Instance
 ## Project Structure
 
 ```text
-terraform-aws-vpc-ec2-lab/
+terraform-aws-vpc-ec2-modules/
 ├── modules/
 │   ├── vpc/
 │   └── ec2/
