@@ -1,4 +1,4 @@
-# Terraform AWS VPC + EC2 Module Lab (test in different environments)
+# Terraform AWS VPC + EC2 Module Lab 
 
 ## Overview
 
